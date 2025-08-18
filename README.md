@@ -1,4 +1,11 @@
-## Hi there 👋
+## 👋 Introducing Myself
+Hi I'm Katie! I'm a data analyst with expertise in data analysis, reporting, and automation.
+
+## 🛠️ Tools
+- Language: SQL
+- Visualization: Looker
+
+## 📚 Projects
 
 <!--
 **kdowningdata/kdowningdata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
