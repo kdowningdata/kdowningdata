@@ -3,7 +3,7 @@ Hi I'm Katie! I'm a data analyst with expertise in data analysis, reporting, and
 
 ## 🛠️ Tools
 - Language: SQL
-- Visualization: Looker
+- Visualization: Looker, Tableau
 
 ## 📚 Projects
 
