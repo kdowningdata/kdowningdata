@@ -2,8 +2,8 @@
 Hi I'm Katie! I'm a data analyst with expertise in data analysis, reporting, and automation.
 
 ## 🛠️ Tools
-- Language: SQL
-- Visualization: Looker, Tableau
+- Language: SQL, Python, R
+- Visualization: Looker, Tableau, Excel, Google Sheets
 
 ## 📚 Projects
 
